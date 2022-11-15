@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\bin\Debug\net6.0\Day23_AddressBook.exe
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\bin\Debug\net6.0\Day23_AddressBook.deps.json
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\bin\Debug\net6.0\Day23_AddressBook.runtimeconfig.json
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\bin\Debug\net6.0\Day23_AddressBook.dll
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\bin\Debug\net6.0\Day23_AddressBook.pdb
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\obj\Debug\net6.0\Day23_AddressBook.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\obj\Debug\net6.0\Day23_AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\obj\Debug\net6.0\Day23_AddressBook.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\obj\Debug\net6.0\Day23_AddressBook.AssemblyInfo.cs
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\obj\Debug\net6.0\Day23_AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\obj\Debug\net6.0\Day23_AddressBook.dll
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\obj\Debug\net6.0\refint\Day23_AddressBook.dll
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\obj\Debug\net6.0\Day23_AddressBook.pdb
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\obj\Debug\net6.0\Day23_AddressBook.genruntimeconfig.cache
+C:\Users\user\source\repos\Day23_AddressBook\Day23_AddressBook\obj\Debug\net6.0\ref\Day23_AddressBook.dll
